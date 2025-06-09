@@ -1,1 +1,1 @@
-# POWER-BI-2
+This is the second basic interactive dashboard created on POWER BI DESKTOP to track and anaylyze online sales data. This dashboard is better than the first one in terms of looks and standards. Here I used different types of customized visualization (bar chart, pie chart, donut chart, line chart, slicers, etc).
